@@ -1,4 +1,3 @@
-// Code your solutions in this file
 const giftGiver=['Guadalupe','Ollie','Aki']
 
 const giftType='surprise'
